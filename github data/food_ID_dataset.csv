@@ -1,0 +1,282 @@
+﻿Food item name,FDC ID,FEEDTABLES ID,Alternative food name; Based on assumptions made from USDA FDC 
+Barley (not hulless varieties),,12434,
+"Barley, dehulled (11,8% protein)",170283 ,,Hulled barley
+Biscuits (CP>12%),172670 ,,Biscuits (plain / buttermilk) 
+Bread,172686 ,,Wheat bread
+Maize flour/Corn flour,170290 ,,"Cornflour, whole grain, yellow"
+Maize/corn,,12432,
+Maize (extruded)/extruded corn,,12484,
+Maize (flaked)/flaked corn/rolled corn,,12426,
+"Maize (high moisure)/humid corn - 60-70% dry matter, raw",,12485,
+Maize bran,,12346,
+"Maize, yellow dent (7,5% protein)",170288 ,,Yellow corn grain 
+"Maize, nutridense (8,8% protein)",170288 ,,Yellow corn grain 
+"Maize, high lysine",170288 ,,Yellow corn grain 
+"Millet, finger",169702 ,,Raw millet
+"Millet, pearl (Penisetum glaucum (l) R. Br)/candle millet/dark millet/bajra/Indian millet/horse millet/bulrush millet/cattail millet",,12656,
+"Millet, proso (Panicum miliaceum L.)/common millet/broomtail millet/hog millet/white millet/broomcorn millet",,12657,
+Oat groats (Avena sativa L.)/oat grain from whuch hulls have been removed,,12374,
+Oats (Avena sativa L.),,12460,
+Oats (Avena sativa L.),,12460,
+"Oats, flaked/flaked or rolled oat grain",,12425,
+"Oats, dehulled (13,1% protein)",169705 ,,Regular oats 
+Rice,168883 ,,"Rice, white, glutinous, unenriched, uncooked"
+"Rice, brown (Oryza sativa L.)/unpolished rice without the hulls but with the outer grain layers",,12367,
+"Rice, paddy/whole rice grain with the hulls included",,12532,
+"Rice, polished, broken (byproduct of the polishing process consisting of small or broken grains)",,12450,
+"Rice, white, polished (9,0% protein)",169760 ,,"Rice, white, medium-grain, raw, unenriched"
+Rice bran,169713 ,,Crude rice bran
+Rye (Secale cereale L.) ,,12443,
+"Rye (12,1% protein)",168884 ,,Rye grain
+"Seitan (wheat based protein), 20,9 g/100 g protein)",FRIDA,FRIDA,
+"Sorghum (Sorghum bicolor (L) Moench, low tannin variety",,12462,
+"Sorghum (Sorghum bicolor (L) Moench, low tannin variety",,12462,
+"Sorghum (9,8% protein)",169716 ,,Sorghum grain 
+Triticale (Triticum x Secale),,12449,
+"Wheat, durum",,12381,
+"Wheat, soft",,12429,
+"Wheat flour (fibre < 3,5%)",,12526,
+"Wheat (11,9% protein)",169720 ,,"Wheat, soft white "
+"Zein protein isolate (89% proteins, Sigma-Aldrich)",NO DATA,NO DATA,
+"Beet pulp, dried",,12447,
+"Beet pulp, pressed",,12459,
+"Cassava pulp, dried",,269566,
+Cassava (starch 66-70%),,12384,
+"Cassava, starch 70-74%",,12438,
+"Chicory pulp, dehydrated",,12404,
+Potato protein concentrate,,12371,
+"Potato pulp, dried",,12480,
+"Potato tuber, dried",,12369,
+Potato crisps,168853 ,,"Snack, potato chips, made from dried potatoes, plain"
+Potato fries (fat 4-12%) ,170698 ,,"Fast foods, potato, french fried in vegetable oil"
+Potato fries (fat 12-18%),170698 ,,"Fast foods, potato, french fried in vegetable oil"
+Potato fries (fat >18%),170698 ,,"Fast foods, potato, french fried in vegetable oil"
+Potato (dehydrated),170041 ,,Dehydrated mashed potatoes 
+"Potato peelings, steamed, starch <35%)",170034 ,,"Potatoes, baked, skin, without salt"
+"Potato peelings, steamed, starch 35-47,5%)",170034 ,,"Potatoes, baked, skin, without salt"
+"Potato peelings, steamed, starch 47,5-60%)",170034 ,,"Potatoes, baked, skin, without salt"
+"Potato peelings, steamed, starch >60%)",170034 ,,"Potatoes, baked, skin, without salt"
+"Potato (sweet, dehydrated)",168482 ,,"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+"Sweet potato, dried",168482 ,,"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+"Adzuki bean, cooked (Jihong No.16, Chinese variety),25,5% protein",173727 ,,"Beans, adzuki, mature seeds, raw"
+Alfalfa protein concentrate,,12409,
+"Alfalfa, dehydrated, protein 16-18% dry matter",,12401,
+"Alfalfa, dehydrated, protein > 25% dry matter",,12413,
+"Broad beans, cooked (Qingcan No.14, Chinese variety), 29,7% protein",173753 ,,
+"Chickpea, kabuli type (Cicer arietinum L.)",,12428,
+"Chickpea, pressure cooked (Kabuli), (Cicer arietinum) garbanzo bean, var KAK-2, India (22,9 g/100 g protein)",173757 ,,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+"Chickpeas (Xinying No1 Y2-12, Chinese variety), 25,3% protein",173756 ,,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+Coconut (extracted),170169 ,,"Nuts, coconut meat, raw"
+Common bean (Phaseolus vulgaris L.),,12561,"Beans, french, mature seeds, raw"
+Common vetch (Vicia sativa L.),,12560,
+"Cotton seed, whole/full-fat cotton seed (Gossypium spp.)",,12356,
+"Cotton seed, whole, extruded/full-fat cotton seed (Gossypium spp)",,12487,
+Cowpea seed (Vigna unguicuilata (L) Walp),,12653,
+"Faba bean, coloured flowers, high tannin",,12461,
+"Faba bean, colored flowers, high tannin, extruded, horse bean/field bean (Vicia faba L.)",,12488,
+"Faba bean, white flowers, low tannin, horse bean/field bean (Vicia faba L.)",,12433,
+"Groundnut flour/peanut flour, dehulled (46,6 g/00 g protein)",172435 ,,"Peanut flour, low fat"
+"Kidney bean, cooked (Ziyun No.2, Chinese variety), 26,2% protein",175194 ,,"Beans, kidney, red, mature seeds, cooked, boiled, without salt"
+Lentils (Lens esculenta Moench),,12559,
+"Lentils, raw, red (Lens culinaris), 24,7 g/100 g protein",174284 ,,"Lentils, pink or red, raw"
+"Lentils, steam pelleted at 80-85 oC, (Lens culinaris), 24,3 g/100 g protein",172421 ,,"Lentils, mature seeds, cooked, boiled, without salt"
+"Lentils, extruded at 115oC (Lens culinaris), 24,4 g/00 g protein",172420 ,,"Lentils, raw"
+"Linseed, whole (Linum usitatissimum)/full-fat linseed/full fat flaxseed",,12435,
+"Linseed, whole, extruded (Linum usitatissimum)/full-fat linseed/full fat flaxseed",,12489,
+"Lupin, blue (Lupinus angustifolius L.)/narrowleaf lupin",,12442,
+"Lupin, white (Lupinus albus L.)",,12363,
+"Lupin, white, extruded (Lupinus albus L.)",,12490,
+"Mung bean (Vigna radiata, var. KKM-3), India (24,9 g/100 g protein)",174256 ,,"Mung beans, mature seeds, raw"
+"Mung bean, dehulled (Vigna radiata, var. KKM-3), India (25,7 g/100 g protein)",174256 ,,"Mung beans, mature seeds, raw"
+"Mung bean, cooked (Yulc No.1, Chinese variety), 26,1% protein",174257 ,,"Mung beans, mature seeds, cooked, boiled, without salt"
+Pea (Pisum sativum L.),,12439,
+Pea (Pisum sativum L.),,12439,
+"Pea, extruded (Pisum sativum L.)",,12491,
+Pea protein concentrate,,12543,
+"Pea emulsion (soybean oil-in-water emulsion containing a pea isolate), 16.79 g/100 g protein)",170419 ,,"Peas, green, raw"
+"Peas, cooked (Dingwan No.4, Chinese variety), 24,3% protein",170420 ,,"Peas, green, cooked, boiled, drained, without salt"
+"Pea, yellow, pressure cooked (Pisum sativum; var. Salamanca) (24,4 g/100 g protein)",NO DATA,NO DATA,
+"Pistachio nuts, raw (Pistacia vera L.), 27,1 g/100 g protein)",170184 ,,"Nuts, pistachio nuts, raw"
+"Pistachio nuts, roasted (Pistacia vera L.), 25,1 g/100 g protein",170185 ,,"Nuts, pistachio nuts, dry roasted, without salt added"
+"Rapeseed, whole (Brassica napus L., Brassica rapa L., Brassica juncea L.)/full-fat rapeseed/full-fat canola seed",,12351,
+"Rapeseed, whole, extruded (Brassica napus L., Brassica rapa L., Brassica juncea L.)/full-fat rapeseed/full-fat canola seed",,12486,
+"Soybean, whole, extruded (Glycine max (L) Merr.), extruded full-fat soybean",,12350,
+"Soybean, whole, flaked (Glycine max (L) Merr.)/flaked or rolled full-fat soybean",,12492,
+"Soybean, whole, toasted (Glycine max (L) Merr.)/toasted full-fat soybean",,12463,
+"Soybean, whole, toasted, flaked and expanded (Glycine max (L) Merr.)",,12548,
+"Soybean protein concentrate, protein 50-60%",,12540,
+"Soybean protein concentrate, protein 60-70%",,12541,
+"Soybean protein concentrate, protein 70-90%/soy isolate",,12542,
+"Soya milk (21,83 g/100 g protein)",175223 ,,"SILK Unsweetened, soymilk"
+"Soy bean, full fat, dehulled, extruded (35,8 g/100 g protein)",,12350,
+"Sunflower seeds, whole",,12345,
+"Tofu (soya based protein), 23.7 g/100 g protein)",172461 ,,"MORI-NU, Tofu, silken, firm"
+"Camelina oil meal, oil > 5%",,12553,
+"Canola meal, oil < 5%",,222075,
+"Cocoa meal, oil < 5%",,12348,
+"Copra meal, oil 5-20%",,12365,
+"Copra meal, oil < 5%",,12514,
+Corn germ meal,169697 ,,"Cornmeal, whole-grain, yellow"
+"Cottonseed meal, oil 5-20%, crude fibre 15-20%",,12511,
+"Cottonseed meal, oil 5-20%, crude fibre < 15%",,12512,
+"Cottonseed meal, oil < 5%, crude fibre 15-20%",,12472,
+"Cottonseed meal, oil < 5%, crude fibre < 15%",,12387,
+Grapeseed oil meal,,12378,
+"Groundnut meal, oil 5-20%/groundnut cake, groundnut oil cake, peanut cake, peanut oil cake, peanut meal, peanut oil meal.",,12521,
+"Groundnut meal, oil < 5%, crude fibre < 9%",,12386,
+"Groundnut meal, oil < 5%, crude fibre > 9%",,12440,
+"Linseed meal, oil < 5%/flaxseed meal, flaxseed oil meal.",,12388,
+"Linseed meal, oil > 5%/flaxseed meal, flaxseed oil meal.",,12357,
+"Olive oil cake, with pits, oil < 5%",,12373,
+"Olive oil cake, with pits, oil > 5%",,12358,
+"Olive pulp, oil < 10%",,12366,
+"Olive pulp, oil > 10%",,12377,
+"Palm kernel meal, oil 5-20%",,12471,
+"Palm kernel meal, oil < 5%",,12510,
+"Rapeseed meal, oil 5-20%/rapeseed cake/rapeseed meal/canola cake/canola meal ",,12509,
+"Rapeseed meal, oil < 5%/rapeseed cake/rapeseed meal/canola cake/canola meal ",,12454,
+"Sesame meal, oil > 5%/sesame cake, sesame oil cake.",,12364,
+"Sheanut oil meal, oil > 5%",,12660,
+"Soybean meal, oil 5-20%",,12513,
+"Soybean meal, oil < 5%, 46% protein + oil",,12473,
+"Soybean meal, oil < 5%, 48% protein + oil",,12453,
+"Soybean meal, oil < 5%, 48% protein + oil, extruded",,12493,
+"Soybean meal, oil < 5%, 50% protein + oil",,12431,
+"Soy bean meal/SBM-43, with hulls (43 g/100 g protein",174270 ,,"Soybeans, mature seeds, raw"
+"Soy bean meal/SBM-47, without hulls (47 g/100 g protein)",174270 ,,"Soybeans, mature seeds, raw"
+"Sunflower meal, oil 5-20%, dehulled",,12516,
+"Sunflower meal, oil 5-20%, non dehulled",,12515,
+"Sunflower meal, oil < 5%, dehulled",,12353,
+"Sunflower meal, oil < 5%, non dehulled",,12427,
+"Fish meal, protein 62%",,12416,
+"Fish meal, protein 65%",,12370,
+"Fish meal, protein 70%",,12349,
+Fish (Chinese),171952 ,,"Fish, carp, raw"
+"Fish soluble, hydrolysed, (FS Peptide, France), 89% protein",,12407,"Fish solubles, condensed, defatted"
+Shrimp meal,,12654,
+"Beef, Boiled (86,3 g/100 g dm protein), topside steak",174730 ,,"Beef, New Zealand, imported, manufacturing beef, cooked, boiled"
+"Beef, raw (81,2 g/100 g dm protein), topside steak",168608 ,,"Beef, grass-fed, ground, raw"
+"Beef, grilled (88,4 g/100 g dm protein),  topside steak",169472 ,,"Beef, round, top round steak, boneless, separable lean only, trimmed to 0"" fat, select, cooked, grilled"
+"Beef, pan fried (83,8 g/100 g dm protein), topside steak",168708 ,,"Beef, round, top round, separable lean only, trimmed to 1/8"" fat, choice, cooked, pan-fried"
+"Beef, roasted (84,6 g/100 g dm protein),  topside steak",173992 ,,"Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fat, select, cooked, roasted"
+"Black soldier fly larvae, fat < 20%, dried",,142197,
+"Black soldier fly larvae, fat > 20%, dried",,12651,
+"Black soldier fly, prepupae, Chinese, 43,1% crude protein",NO DATA,NO DATA,
+bovine muscle hydrolysate (90 g/100 g dm protein),NO DATA,NO DATA,
+"bovine collagen hydrolysate (112 g/100 g dm protein, measured as Nitrogen *6,25 so can be slightly above 100)",NO DATA,NO DATA,
+"Chicken, cooked",171076 ,,"Chicken, broilers or fryers, breast, meat and skin, cooked, stewed"
+"Egg, whole, boiled",173424 ,,"Egg, whole, cooked, hard-boiled"
+Egg white protein,747997,,"Eggs, Grade A, Large, egg white"
+"House fly, prepupae, Chinese, 52,9% crude protein",NO DATA,NO DATA,
+"Mealworm larvae, dried",,12652,
+"Mealworm larvae meal, defatted (Korea), 68% crude protein",NO DATA,NO DATA,
+"Mealworm larvae hydrolysate, defatted (Tenebrior molitor), 58,9% crude protein",NO DATA,NO DATA,
+"Poultry by-product, fermented, Korea, 71.5% protein",NO DATA,NO DATA,
+"Processed animal proteins, pig",,12499,
+"Processed animal proteins, poultry, protein 45-60%",,12495,
+"Processed animal proteins, poultry, protein 60-70%",,12500,
+"Processed animal proteins, poultry, protein > 70%",,12508,
+Porcine plasma hydrolysate (66 g/100 g dm protein),NO DATA,NO DATA,
+Porcine heart hydrolysate (78 g/100 g dm protein),NO DATA,NO DATA,
+Porcine muscle hydrolysate (91 g/100 g dm protein),NO DATA,NO DATA,
+Casein,171262 ,,"Cream substitute, liquid, with lauric acid oil and sodium caseinate"
+Infant formula (cow based),169791 ,,"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, powder"
+"Cheese whey (CP<17,5%)",FRIDA,FRIDA,
+"Cheese whey (CP 17,5-27,5%)",FRIDA,FRIDA,
+"Cheese whey (CP>27,5%)",FRIDA,FRIDA,
+"Milk powder, skimmed, dried",,12362,
+Skim milk powder,169868 ,,"Milk, fluid, nonfat, calcium fortified (fat free or skim)"
+Milk protein concentrate,173459 ,,"Protein supplement, milk based, Muscle Milk, powder"
+"Milk powder, whole, dried",,12412,
+whey permeate,,12552,
+"whey powder, acid",,12383,
+"whey powder, sweet",,12372,
+"whey, dehydrated",,12549,
+"whey, dried",,12550,
+"whey protein isolate, (90,6% proteins, Fonterra)",173177 ,,"Beverages, Whey protein powder isolate"
+"Apple pomace, dried",,12551,
+"Bananas, immature, dried",,12539,
+"Citrus pulp, dried",,12437,
+"Citrus pulp, fresh",,12556,
+"Grape pomace, dried",,12359,
+"Grape pulp, dried",,96889,
+Grape seeds,,12441,
+"Tomato pulp, dehydrated",,12375,
+Brewers yeast,,12451,
+Mustard bran,,12658,
+Single cell protein ,NO DATA,NO DATA,
+Soy bean meal ,172445,,"Soy meal, defatted, raw"
+Soybean meal (conventionally processed) ,172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 110oC, 15 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 110oC, 30 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 150oC, 3 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 150oC, 6 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 150oC, 9 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 150oC, 12 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 150oC, 15 min)",172445,,"Soy meal, defatted, raw"
+"Soybean meal (autoclaved, 150oC, 18 min)",172445,,"Soy meal, defatted, raw"
+whey protein isolate (WPI),173177,,"Beverages, Whey protein powder isolate"
+whey protein concentrate (WPC),NO DATA,NO DATA,
+milk protein concentrate (MPC),173459,,"Protein supplement, milk based, Muscle Milk, powder"
+skimmed milk powder (SMP),,12362,
+pea protein concentrate (PPC),12543,,
+soy protein isolate (SPI),174276,,Soy protein isolate
+soya flour,174273,,"Soy flour, full-fat, raw"
+wheat,,12477,Wheat straw
+"Faba beans (cultivar - Alfred), high tannin",,12461,
+"Faba beans (cultivar - Alfred), high tannin, dehulled, ",,12461,Assuming hulled and dehulled have same nutrient content
+Faba beans (cultivar - Blandine ),,12433,
+Lupins (cultivar - Lublanc ),,12363,
+Lupins (cultivar - Australian),,12442,Australian lupins assumed to be blue
+Peas (Cultivar - Amino),12439,,
+Peas (Cultivar - Australian),12439,,
+Peas (Cultivar - Finale),12439,,
+"Peas (Cultivar - Frilene), high in trypsin inhibitor",12439,,
+"Peas (Cultivar - Frilene), high in trypsin inhibitor, extruded",12439,,
+"Pea protein isolate, yellow ",NO DATA,NO DATA,
+Casein ,171262 ,,"Cream substitute, liquid, with lauric acid oil and sodium caseinate"
+"Beef, lean (80%)",FRIDA,FRIDA,
+"Beef, lean (93%)",FRIDA,FRIDA,
+Pork,168287,,"Pork, cured, salt pork, raw"
+Impossible burger ,2327127,,BURGER PATTIES - from impossible inc. 
+Beyond burger,1869600,,"BEYOND MEAT, BEYOND BEEF ITALIAN MEATBALLS"
+Burger bun ,2094310,,BURGER BUNS - from whole foods market
+"Beef, lean (80%) + burger bun",NO DATA,NO DATA,
+Pork + burger bun,NO DATA,NO DATA,
+Impossible burger + burger bun,NO DATA,NO DATA,
+Millet,169702,,"Millet, raw"
+Adlay (Chinese pearl barley),170284,,"Barley, pearled, raw"
+Mung bean (32%) + millet (68%),NO DATA,NO DATA,
+Adzuki bean (40%)+ adlay (Chinese pearl barley) (60%),NO DATA,NO DATA,
+Cornflakes (Kelloggs company),753438,,
+Quick Oats,1973576,,
+"milk, dried, non fat",171273,,"Milk, dry, nonfat, calcium reduced"
+Cornflakes + dry milk (ratio of mix 2.6:1),NO DATA,NO DATA,
+Quick oats + dry milk (ratio  of mix 2.4:1),NO DATA,NO DATA,
+Pinto bean (served with corn tortilla and guacamole),174286,,
+"Salami (fully coked, cured and fermented), includes pok and pork hearts",172936,,"Beans, pinto, canned, drained solids"
+"Bologna (fully cooked and cured), includes pork and beef",172013,,"Bologna, beef and pork"
+Beef jerky ,167536,,"Snacks, beef jerky, chopped and formed"
+"Beef, ground, raw",168608,,"Beef, grass-fed, ground, raw"
+"Beef, ground, cooked",169447,,"Beef, ground, patties, frozen, cooked, broiled"
+"ribeye roast, medium rare (cooked to 56oC)",173059,,"Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0"" fat, choice, cooked, roasted"
+"ribeye roast, medium (cooked to 64oC)",173059,,"Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0"" fat, choice, cooked, roasted"
+"ribeye roast, well-done (ccoked to 72oC)",173059,,"Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0"" fat, choice, cooked, roasted"
+"pork belly, raw",167812,,"Pork, fresh, belly, raw"
+"Bacon, smoked",168324,,"Pork, bacon, rendered fat, cooked"
+"Bacon, smoked, cooked",168324,,"Pork, bacon, rendered fat, cooked"
+"Ham, non-cured",171627,,"Ham, chopped, not canned"
+"Ham, cured with celery/salt (no nitrite)",167873,,"Pork, cured, ham, patties, unheated"
+"Ham, cured ",167873,,"Pork, cured, ham, patties, unheated"
+"pork loin, medium (cooked to 63oC)",167842,,"Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted"
+"pork loin, medium-well (cooked to 68oC)",167842,,"Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted"
+"pork loin, well-done (cooked to 72oC)",167842,,"Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted"
+"Chickpea, extruded",173756,,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+"Yellow pea, extruded ",NO DATA,NO DATA,
+"Black soldier fly larvae meal, defatted",,142197,
+"Black soldier fly larvae meal, full fat",,12651,
+"Corn/maize, yellow dent,  raw",170288 ,,Yellow corn grain 
+"Corn/maize, yellow dent, extruded",170288 ,,Yellow corn grain 
+"Wheat, hard red winter, raw",168890,,"Wheat, hard red winter"
+"Wheat, hard red winter, extruded",168890,,"Wheat, hard red winter"
+"Sorghum, 1.6g/kg tannin, raw",,12462,
